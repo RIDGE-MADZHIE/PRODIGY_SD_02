@@ -1,17 +1,12 @@
 body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: white;
-
-    
-
+    background-color: rgb(241, 154, 40);
 }
-
 #p1{
     
     font-size: large;
 }
-
 #input{
     height: 38px;
     width: 100px;
@@ -23,9 +18,7 @@ body{
 
     font-size: medium;
     margin-right: 5px;
-
 }
-
 #guess{
 
     
@@ -39,8 +32,6 @@ body{
     font-size: medium;
 
     border-radius: 100px;
-    
-
 }
 #guess:hover{
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.20);
