@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+
+    
+
+}
+
+#p1{
+    
+    font-size: large;
+}
+
+#input{
+    height: 38px;
+    width: 100px;
+    border: none;
+    border-radius: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+
+    font-size: medium;
+    margin-right: 5px;
+
+}
+
+#guess{
+
+    
+    height: 40px;
+    width: 100px;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(40, 147, 219);
+    border-style: none;
+
+    font-size: medium;
+
+    border-radius: 100px;
+    
+
+}
+#guess:hover{
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.20);
+    background-color: rgb(78, 173, 236);
+}
